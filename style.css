@@ -12,6 +12,7 @@
     padding: 10px 10px;
     margin: auto;
     box-shadow: 5px 5px 7px 0 yellow;
+    text-shadow: 5px 5px 0 rgb(87, 87, 196);
     margin-top: 50px;
     
 }
@@ -22,6 +23,7 @@
     padding: 10px 10px;
     margin: auto;
     box-shadow: 8px 4px 0 2px red;
+    text-shadow: 0 7px 1px green;
     margin-top: 50px;
 }
 .box3{
@@ -31,6 +33,7 @@
     padding: 10px 10px;
     margin: auto;
     box-shadow: 0 0 5px 2px grey;
+    text-shadow: 0 0 10px rgb(179, 39, 86);
     margin-top: 50px;
 }
 .box4{
@@ -40,6 +43,7 @@
     padding: 10px 10px;
     margin: auto;
     box-shadow: 7px 5px 7px 0 blue;
+    text-shadow: 5px 5px 2px grey;
     margin-top: 50px;
 }
 .box5{
@@ -49,6 +53,7 @@
     padding: 10px 10px;
     margin: auto;
     box-shadow: 5px 5px 7px 0 purple;
+    text-shadow: 5px 5px 5px grey;
     margin-top: 50px;
     margin-bottom: 50px;
 }
